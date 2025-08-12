@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Matthew Moon",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/matttmoon.png",
+    "email": "mmoon5941@my.sullivan.edu",
+    "phone": "989-860-2693",
+    "website": "https://matttmoon.github.io",
+    "summary": "I am studying for a Associates in Computer Information Technology at Sullivan University,
+    "location": { "address": "", "postalCode": "48603", "city": "Nicholasville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+      { "network": "github", "username": "matttmoon", "url": "http://github.com/matttmoon" }, ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Engineering" },
+    { "name": "Technology" },
+    { "name": "Programming" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Gaming" }
   ],
   "skills": [
     {
