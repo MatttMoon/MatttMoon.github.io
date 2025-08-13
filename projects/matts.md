@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: https://github.com/MatttMoon/MatttMoon.github.io/blob/main/img/task_manager.png
 title: "Task Manager"
 date: 2025
 published: true
@@ -9,14 +9,8 @@ labels:
   - Python
   - PyQt5
   - SQLite
-summary: "Developed a task manager for Python."
+summary: "Developed a task manager in Python."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 ## Task Manager Application
 
