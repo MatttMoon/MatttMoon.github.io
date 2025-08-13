@@ -1,0 +1,38 @@
+---
+layout: essay
+type: essay
+title: "Python"
+# All dates must be YYYY-MM-DD format!
+date: 2025-08-12
+published: true
+labels:
+  - Python
+---
+
+# Python
+
+Python is a high-level, interpreted programming language known for its readability and simplicity.  
+It was created by **Guido van Rossum** and first released in **1991**.  
+Python emphasizes code readability through its clean syntax, which allows developers to express concepts in fewer lines of code compared to many other programming languages.
+
+## Key Features
+- **Easy to Learn and Use**: Python’s syntax is straightforward, making it a popular choice for beginners.
+- **Versatile**: Supports multiple programming paradigms, including object-oriented, procedural, and functional programming.
+- **Extensive Libraries**: Comes with a rich standard library and a vast ecosystem of third-party packages via [PyPI](https://pypi.org/).
+- **Cross-Platform**: Runs on Windows, macOS, Linux, and more.
+- **Interpreted Language**: Code is executed line-by-line, which simplifies testing and debugging.
+
+## Common Uses
+- **Web Development** (e.g., Django, Flask)
+- **Data Science and Machine Learning** (e.g., Pandas, NumPy, TensorFlow)
+- **Automation and Scripting**
+- **Game Development**
+- **Desktop Applications**
+
+## Example Code
+Here’s a simple Python program that prints `"Hello, World!"`:
+
+```python
+print("Hello, World!")
+
+
