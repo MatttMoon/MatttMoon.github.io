@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/MatttMoon/MatttMoon.github.io/blob/main/img/task_manager.png
+image: img/task_manager.png
 title: "Task Manager"
 date: 2025
 published: true
