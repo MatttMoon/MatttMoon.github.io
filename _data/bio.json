@@ -30,15 +30,23 @@
     { "name": "Gaming" }
   ],
   "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": ["C#", "C++", "HTML/CSS", "Python", "SQLite", "SQL", "PyQt5", "MySQL"]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "Linux (General)", "Windows"]
-    }
-  ],
+  {
+    "name": "Languages and Frameworks",
+    "keywords": ["C#", "C++", "HTML/CSS", "Python", "SQLite", "SQL", "PyQt5", "MySQL"]
+  },
+  {
+    "name": "Toolsets / IDEs",
+    "keywords": ["VS Code", "Visual Studio", "PyCharm", "Git/GitHub"]
+  },
+  {
+    "name": "Other Tools",
+    "keywords": ["Docker (containerization)", "WinForms", "WPF", "VirtualBox", "VMware"]
+  },
+  {
+    "name": "Operating Systems",
+    "keywords": ["Linux (General)", "Ubuntu", "Windows", "macOS"]
+  }
+],
   "education": [
     {
       "institution": "Sullivan University, Lexington, KY",
