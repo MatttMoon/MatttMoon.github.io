@@ -1,3 +1,11 @@
+---
+layout: project
+title: "Task Manager V2"
+date: 2025-08-21
+image: /img/taskv2_login.png   
+tags: [Python, PyQt5, SQLite, AuroraUI]
+---
+
 # Task Manager V2 (Aurora Edition)
 
 ## Overview
