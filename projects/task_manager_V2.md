@@ -1,14 +1,16 @@
 ---
 layout: project
-title: Task Manager V2 (Aurora Edition)
-year: 2025
-image: /img/login.png        
-summary: Aurora-themed task manager with login, groups, calendar, XP, and light/dark mode.
-tags: [Python, PyQt5, SQLite]
-published: true             
+type: project
+image: /img/login.png
+title: "Task Manager V2"
+date: 2025
+published: true
+labels:
+  - Python
+  - SQLite3
+  - PyQT5
+summary: "urora-themed task manager with login, groups, calendar, XP, and light/dark mode."
 ---
-
-
 
 # Task Manager V2 (Aurora Edition)
 
