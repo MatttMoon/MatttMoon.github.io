@@ -9,7 +9,7 @@ labels:
   - Python
   - SQLite3
   - PyQT5
-summary: "urora-themed task manager with login, groups, calendar, XP, and light/dark mode."
+summary: "Aurora-themed task manager with login, groups, calendar, XP, and light/dark mode."
 ---
 
 # Task Manager V2 (Aurora Edition)
