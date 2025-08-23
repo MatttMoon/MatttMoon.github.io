@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: /img/login.png
+image: ../img/login.png
+
 title: "Task Manager V2"
 date: 2025
 published: true
